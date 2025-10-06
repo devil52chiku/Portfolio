@@ -17,11 +17,7 @@ export const Hero = () => {
         transition={{ duration: 1 }}
         className="absolute top-20 right-20 z-5"
       >
-        <img
-          src="./public/chiku.jpg" 
-          alt="Jyoti Ranjan Pal"
-          className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-neon-blue shadow-lg"
-        />
+     
       </motion.div>
       <div className="max-w-4xl mx-auto text-center space-y-8">
         <motion.div
