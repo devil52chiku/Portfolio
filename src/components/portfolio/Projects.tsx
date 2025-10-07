@@ -30,16 +30,18 @@ export const Projects = () => {
       live: 'https://asusservice.netlify.app/',
       color: 'from-neon-pink to-neon-blue'
     },
-      //F U T U R E---U S E
-    /* {
-      title: '3D Portfolio Website',
-      description: 'Interactive 3D portfolio showcasing modern web technologies with immersive user experience and smooth animations.',
+      
+     {
+      title: 'Calculator Pro',
+      description: 'A mordernn Calculator app with live exchange rates and multi theme mode for both day and night use.',
       tech: ['React', 'Three.js', 'TypeScript', 'Framer Motion'],
-      github: 'https://github.com',
-      live: 'https://example.com',
+      github: 'https://github.com/jr777pal/Calculator-Pro.git',
+      live: 'https://calculatorproapp.netlify.app/',
       color: 'from-neon-blue via-neon-purple to-neon-pink'
     },
-    {
+
+    //F U T U R E---U S E
+   /* {
       title: 'Neural Network Visualizer',
       description: 'Interactive tool for visualizing and understanding neural network architectures with real-time training visualization.',
       tech: ['Python', 'TensorFlow', 'D3.js', 'Flask'],
